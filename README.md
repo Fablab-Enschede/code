@@ -1,6 +1,8 @@
 code
 ====
 
-code files for fablab machines
+code files for fablab enschede
 
-this folder contains files as firmware for the machines (arduino, processing etc)
+this folder contains files for general purposes such as sensor circuits with arduino / processing
+
+cad files and firmware for machines is in other directories (cadcam, ultimaker)
